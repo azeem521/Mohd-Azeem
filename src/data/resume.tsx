@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Software Engineer. I love building things and helping people. Very active on LinkedIn.",
   summary:
-    "I am a passionate software developer with a strong foundation in full-stack development, AI, and automation. I thrive on solving real-world problems through innovative applications, as demonstrated in multiple hackathons where my projects earned recognition.I am always eager to explore new technologies and build impactful solutions. Currently, I am focusing on AI-enhanced full-stack applications, cloud integration, and system optimization.",
+    "Frontend / Full Stack Developer skilled in React, Next.js, Node.js, TypeScript, JavaScript, and MongoDB. Passionate about building responsive, user-focused web applications with a touch of creativity. Also familiar with Salesforce, WordPress, and content writing, bringing a well-rounded perspective to every project.",
   avatarUrl: "https://res.cloudinary.com/dpy2hj3yl/image/upload/v1761475240/IMG_20250126_164335_jscsf4.jpg",
   skills: [
     "React",
@@ -69,17 +69,18 @@ export const DATA = {
 
   work: [
     {
-      company: "Codenomad",
-      href: "https://codenomad.in/",
+      company: "Codeneur",
+      href: "https://www.codeneur.com/",
       badges: [],
-      location: "Mohali, Punjab",
-      title: "Frontend Developer",
-      logoUrl: "https://codenomad.net/image/logo.png",
-      start: "May 2023",
-      end: "October 2023",
+      location: "Hyderabd, Telangana",
+      title: "SDE-||",
+      logoUrl: "https://www.codeneur.com/wp-content/uploads/2024/07/Codeneur-full-logo.png",
+      start: "September 2024",
+      end: "Present",
       description:
         "Developed an Employee Payslip Calculator using Python's Tkinter library for the GUI. Analyzed Google Trends data using pytrends to visualize search interest in Machine Learning and IPL with Pandas and Matplotlib for data handling and plotting.Implemented and evaluated classification models using SVM, KNN, and Logistic Regression in Python, measuring their accuracy on test datasets.",
-    },
+    }
+    ,
      {
       company: "Practical Devsecops",
       href: "https://www.practical-devsecops.com/",
@@ -92,23 +93,24 @@ export const DATA = {
       description:
         "Developed an Employee Payslip Calculator using Python's Tkinter library for the GUI. Analyzed Google Trends data using pytrends to visualize search interest in Machine Learning and IPL with Pandas and Matplotlib for data handling and plotting.Implemented and evaluated classification models using SVM, KNN, and Logistic Regression in Python, measuring their accuracy on test datasets.",
     },
-     {
-      company: "Codeneur",
-      href: "https://www.codeneur.com/",
+     
+    {
+      company: "Codenomad",
+      href: "https://codenomad.in/",
       badges: [],
-      location: "Hyderabd, Telangana",
-      title: "SDE-||",
-      logoUrl: "https://www.codeneur.com/wp-content/uploads/2024/07/Codeneur-full-logo.png",
-      start: "September 2024",
-      end: "Present",
+      location: "Mohali, Punjab",
+      title: "Frontend Developer",
+      logoUrl: "https://codenomad.net/image/logo.png",
+      start: "May 2023",
+      end: "October 2023",
       description:
         "Developed an Employee Payslip Calculator using Python's Tkinter library for the GUI. Analyzed Google Trends data using pytrends to visualize search interest in Machine Learning and IPL with Pandas and Matplotlib for data handling and plotting.Implemented and evaluated classification models using SVM, KNN, and Logistic Regression in Python, measuring their accuracy on test datasets.",
-    },
+    }
   ],
   education: [
     {
       school: "Subharti University, Meerut",
-      href: "https://mjcollege.ac.in/",
+      href: "https://subharti.org/",
       degree: "B..A (Maths, IT",
       logoUrl: "/assets/img/log_1.jpg",
       start: "2018",
@@ -242,41 +244,41 @@ export const DATA = {
       video: "https://www.youtube.com/embed/7-TnkHDN6WU?autoplay=1&loop=1&mute=1&controls=0&rel=0&playlist=7-TnkHDN6WU",
     },
   ],
-  hackathons: [
+  // hackathons: [
     
-    {
-      title: "Envisage 2024",
-      dates: "April 30th, 2024",
-      location: "MJCET",
-      description:
-        "Developed an  IoT network  IDPS with AI-based detection to scan malicious users and block them",
-      image:
-        "/mjcetlogo.jpg",
-      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [],
-    },
-    {
-      title: "Envisage 2023",
-      dates: "January 21st, 2023",
-      location: "MJCET",
-      description:
-        "Developed a food price comparison web application which made users compare prices of the food on delivery platforms at one place",
-      image:
-        "/mjcetlogo.jpg",
-      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [],
-    },
-    {
-      title: "Hack Revolution 2023",
-      dates: "January 8th, 2023",
-      location: "MJCET",
-      description:
-        "Developed a flask server which could scrape and retrieve price data from Swiggy and Zomato ",
-      image:
-        "/hackrev.png",
-      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [],
-    },
+    // {
+    //   title: "Envisage 2024",
+    //   dates: "April 30th, 2024",
+    //   location: "MJCET",
+    //   description:
+    //     "Developed an  IoT network  IDPS with AI-based detection to scan malicious users and block them",
+    //   image:
+    //     "/mjcetlogo.jpg",
+    //   mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
+    //   links: [],
+    // },
+    // {
+    //   title: "Envisage 2023",
+    //   dates: "January 21st, 2023",
+    //   location: "MJCET",
+    //   description:
+    //     "Developed a food price comparison web application which made users compare prices of the food on delivery platforms at one place",
+    //   image:
+    //     "/mjcetlogo.jpg",
+    //   mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
+    //   links: [],
+    // },
+    // {
+    //   title: "Hack Revolution 2023",
+    //   dates: "January 8th, 2023",
+    //   location: "MJCET",
+    //   description:
+    //     "Developed a flask server which could scrape and retrieve price data from Swiggy and Zomato ",
+    //   image:
+    //     "/hackrev.png",
+    //   mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
+    //   links: [],
+    // },
     
-  ],
+  // ],
 } as const;
